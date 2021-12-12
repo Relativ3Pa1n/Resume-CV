@@ -25,7 +25,7 @@ Obtain a position as a penetration tester where I can leverage my background in 
     - Internal Network Assesments and Reporting
     - Active Directory
     - Cross-Site Scripting Services (XSS-Hunter)
-    - SQL and noSQL injections (API testing)
+    - SQL and noSQL injections
     - Python3 for Offensive Pentesting
 - Completed Courses
     - Practical Ethical Hacking (TCM Security)
