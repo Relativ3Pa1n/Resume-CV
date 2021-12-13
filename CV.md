@@ -11,7 +11,8 @@ Obtain a position as a penetration tester where I can leverage my background in 
 ## Technical Skills
 - Linux(Kali, Parrot, Remnux), Windows(10, AD, Server), OSX(Snow Leopard+)
 - Scripting and Automation with Python and Bash
-- Static and Dynamic analysis of Malware and Mobile Applications(Ghidra, sysinternals, Objection, Frida)
+- Static and Dynamic analysis of Malware(Ghidra, Cutter, sysinternals)
+- Mobile App analysis and pentesting(Objection, Frida, adb)
 - Web App(BurpSuite) and OWASP Top 10
 ## Accomplishments and Extracurriculars
 - Hack The Box - https://app.hackthebox.com/profile/342659
