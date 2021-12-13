@@ -100,3 +100,4 @@ asdf
 Here is your gift FARADAY{REDACTED}
 ```
 
+![](https://i.imgur.com/ljOAi25.png)
