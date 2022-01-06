@@ -20,6 +20,7 @@ Obtain a position as a penetration tester where I can leverage my background in 
 - Proving Grounds - Practice and Play
 - CTF - Qualified for finals for atHack Saudi Arabia
 - Defcon 29 - Malware analysis workshop, Bug Bounty workshop and Wireshark workshop
+- DEFCON Kubernetes CTF - Using kubectl to enumerate and find bad configs, used a C2 on a VPC to create persistance in multiple pods for pivoting between them
 ## Computer Science Research March 2020 - Present
 - OSINT - Reading Blogs and Watching walkthroughs and Con talks
 - Currently Studying
