@@ -16,11 +16,13 @@ Obtain a position as a penetration tester or red team member, where I can levera
 - Web App(BurpSuite) and OWASP Top 10
 ## Accomplishments and Extracurriculars
 - Hack The Box - https://app.hackthebox.com/profile/342659
+	- 60+ machines owned and Hacker rank
 - Try Hack Me - https://tryhackme.com/p/h1watt
-- Proving Grounds - Practice and Play
+	- Top 4%
 - CTF - Qualified for finals for atHack Saudi Arabia
 - Defcon 29 - Malware analysis workshop, Bug Bounty workshop and Wireshark workshop
-- DEFCON Kubernetes CTF - Using kubectl to enumerate and find bad configs, used a C2 on a VPC to create persistance in multiple pods for pivoting between them
+- DEFCON Kubernetes CTF
+	- Using kubectl to enumerate and find bad configs, used a C2 on a VPC to create persistance in multiple pods for pivoting between them easily
 ## Computer Science Research March 2020 - Present
 - OSINT - Reading Blogs and Watching walkthroughs and Con talks
 - Currently Studying
