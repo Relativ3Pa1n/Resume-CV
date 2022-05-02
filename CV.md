@@ -4,6 +4,7 @@ danielcgroner@gmail.com
 ## Objective
 Obtain a position as a penetration tester or red team member, where I can leverage my background in offensive security to add further depth to a team or assist in strengthening the security posture of an organization.
 ## Education and Certificiates
+- Projected 2022 OSWE (currently enrolled)
 - 2021 OSCP 
 - 2020 CompTia Network+
 - 2020 CompTia Security+
@@ -20,10 +21,16 @@ Obtain a position as a penetration tester or red team member, where I can levera
 - Try Hack Me - https://tryhackme.com/p/h1watt
 	- Top 4%
 - CTF - Qualified for finals for atHack Saudi Arabia
+- CTF - Top 20 MagPie2022
 - Defcon 29 - Malware analysis workshop, Bug Bounty workshop and Wireshark workshop
 - DEFCON Kubernetes CTF
 	- Using kubectl to enumerate and find bad configs, used a C2 on a VPC to create persistance in multiple pods for pivoting between them easily
+## Cobalt IO Core Pentester March 2022 - Present
+- Engaging in Penetration tests on Web Applications, External Networks, Cloud, Internal Networks
+- Interacting with clients directly through reporting and Slack
+- Alerting clients and team leads to important findings and offering remediation advice and solutions
 ## Computer Science Research March 2020 - Present
+- Currently Enrolled in Offensive Security Web Expert course (OSWE)
 - OSINT - Reading Blogs and Watching walkthroughs and Con talks
 - Currently Studying
     - Internal Network Assesments and Reporting
